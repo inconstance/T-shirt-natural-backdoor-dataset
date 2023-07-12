@@ -1,6 +1,6 @@
 # T-shirt-natural-backdoor-dataset
 ------
-This is for releasing the source code of our work "Design and Evaluation of Federated Learning, Split Learning and SplitFed for Internet of Things".
+This is for releasing the source code of our work "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World" and "Dangerous cloaking: Natural trigger based backdoor attacks on object detectors in the physical world".
 
 If you find it is useful and used for publication. Please kindly cite our work as:
 > ```
